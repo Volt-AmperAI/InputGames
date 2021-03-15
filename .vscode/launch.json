@@ -8,7 +8,7 @@
 			"type": "pwa-chrome",
 			"request": "launch",
 			"name": "Launch Chrome against localhost",
-			"url": "file:///D:/Programming/Sites/inputgames/index.html",
+			"url": "file:///C:/OpenServer/domains/inputgamesart/themes/inputgames/index.html",
 			"webRoot": "${workspaceFolder}"
 		}
 	]
